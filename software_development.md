@@ -1,16 +1,16 @@
 
 
-Planning  
+## Planning  
 	Two kinds:   
 		Dev and Design start at the same time  
 		Design first, then dev  
 
 
-Learning  
+## Learning  
 	If we know what we're building, learn components nessecary and also try to choose components that don't require much learning, or will be extremely maintainable going forward  
 	If we don't yet, ideate on what we're building and learn things that will probably be generally useful (frontend frameworks, study up on algorithms you might need to use, databases etc)  
 
-Building  
+## Building  
 	Setup framework scaffold  
 	Get core CRUD views together  
 	Conceptualize data model  
@@ -26,9 +26,9 @@ Building
 	Productize and apply business logic to API, by locking down certain parts and providing convienience for third-party service integration  
 	Configure authentication on API  
 
-Launch! Iterate here, continue doing things from the building section, while starting on engineering  
+## Launch! Iterate here, continue doing things from the building section, while starting on engineering  
 
-Engineering  
+## Engineering  
 	Develop style guide for interfaces (in code)  
 	Develop code style guide & review process  
 	Decide internal library usage (ie jQuery, modernify, text editors, packages, tools (lodash vs underscore))
