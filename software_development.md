@@ -1,5 +1,3 @@
-
-
 ## Planning  
 	Two kinds:   
 		Dev and Design start at the same time  
